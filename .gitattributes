@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.mp4 binary
+*.jpg binary
+# Preserve the historical graph's exact bytes on every checkout.
+examples/environment/workflow.json -text
