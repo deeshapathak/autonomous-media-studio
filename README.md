@@ -2,7 +2,7 @@
 
 **A local synthetic-media workflow, from a reproducible H3 graph to a reviewable video.**
 
-Built by [Deesha Pathak](https://github.com/deeshapathak). This technical showcase accompanies an a16z Speedrun application. It captures a working slice of a larger local media studio: Python orchestration, a ComfyUI H3 graph, asynchronous GPU execution, and an artifact that can be inspected and checked against its original run record.
+This technical showcase accompanies an a16z Speedrun application. It captures a working slice of a larger local media studio: Python orchestration, a ComfyUI H3 graph, asynchronous GPU execution, and an artifact that can be inspected and checked against its original run record.
 
 [![Generated architectural scene](examples/environment/preview.jpg)](examples/environment/output.mp4)
 
